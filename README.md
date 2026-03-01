@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a professional Website and Mobile App Developer specializing in responsive websites, mobile app development, and UI/UX design. I build fast, user-friendly, and scalable applications using clean code and modern design principles. I focus on clear communication, on-time delivery, and high-quality results for every project.
+I am a professional Website and Mobile App Developer with expertise in building responsive websites and developing mobile applications and UI/UX designs. My applications are fast, user-friendly, and scalable with clean codes and modern designs. I believe in effective communication, timely delivery, and quality output in all my projects.
 
 
 ## 🌐 Socials:
