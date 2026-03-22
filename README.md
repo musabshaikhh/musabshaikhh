@@ -5,7 +5,7 @@
 
 <!-- 🌌 Retro Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=140&section=header"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnY4cXkzN294Nzd0NWVxNWFheWloOW5ocDlqYWhlZHl1czRncXVvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N43iolnh53IoyCjYp4/giphy.gif" width="auto"/>
 </p>
 
 ---
@@ -87,14 +87,6 @@
   <img src="https://streak-stats.demolab.com/?user=musabshaikhh&theme=tokyonight&hide_border=true"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabshaikhh&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🎮 Fun Zone
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="120"/>
 </p>
 
 ---
