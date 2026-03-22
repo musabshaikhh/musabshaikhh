@@ -24,14 +24,39 @@
 
 # 💫 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Musab+👋;Flutter+Developer+🚀;Full+Stack+Engineer;UI%2FUX+Designer+🎨;Retro+UI+Lover" />
+<table>
+<tr>
+<td width="60%">
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&lines=Hi+I'm+Musab+👋;Flutter+Developer+🚀;Full+Stack+Engineer;UI%2FUX+Designer+🎨;Retro+UI+Lover" />
 </p>
 
 💻 Professional **Website & Mobile App Developer**  
 ⚡ Building **fast, scalable & responsive apps**  
 🎨 Love **modern UI/UX + retro aesthetics**  
 🔥 Focused on **clean code & smooth performance**  
+
+<br/>
+
+🚀 Build cross-platform apps using Flutter  
+🌐 Develop modern responsive websites  
+🎨 Design clean UI/UX  
+⚙️ Create smooth animations  
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github.com/musabshaikhh.png" width="220"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80"/>
+
+</td>
+</tr>
+</table>  
 
 ---
 
@@ -60,7 +85,7 @@
 
 # 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/musabshaikhh/musabshaikhh/output/github-contribution-grid-snake.svg" />
+  <img src="[https://raw.githubusercontent.com/musabshaikhh/musabshaikhh/output/github-contribution-grid-snake.svg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxOXM2djY0M2I2Z2R1dWo4cGZndG4wNDZxdDZlNzBod3g1dHNvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lbhL8dSGMh8I/giphy.gif)" width="150" />
 </p>
 
 ---
@@ -80,13 +105,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120"/>
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="120"/>
-</p>
-
----
-
-# 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=musabshaikhh&icon=6&color=12"/>
 </p>
 
 ---
