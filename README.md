@@ -1,79 +1,99 @@
-<!-- 🔥 Typing Animation -->
+<!-- 🔥 Neon Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Musab+👋;Flutter+Developer+🚀;Website+%2B+App+Builder;UI%2FUX+Designer;Building+Modern+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Musab+Ahmed+🚀;Flutter+Developer;Full+Stack+Engineer;Retro+UI+Lover;Building+Future+Apps" />
 </p>
 
-<!-- 🖼️ Profile Image with Retro Background -->
+<!-- 🌌 Retro Animated Banner -->
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="250" style="border-radius:20px;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&text=Retro%20Dev%20Vibes&fontColor=00F7FF&fontSize=40&animation=fadeIn"/>
 </p>
 
-<!-- 🐱 Animated Cat -->
+<!-- 🖼️ Auto GitHub Profile Pic -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="120"/>
+  <img src="https://github.com/musabshaikhh.png" width="200" style="border-radius:50%; border:3px solid #00F7FF;" />
+</p>
+
+<!-- 🐱 Animated Cats -->
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
 </p>
 
 ---
 
 # 💫 About Me
-✨ Professional **Website & Mobile App Developer**  
-🚀 I build **fast, scalable & user-friendly applications**  
-🎨 Passionate about **UI/UX & modern design**  
-⚡ Clean code, smooth performance & aesthetic vibes  
+💻 Professional **Website & Mobile App Developer**  
+🚀 Building **fast, scalable & modern apps**  
+🎨 Obsessed with **UI/UX + Retro aesthetics**  
+⚡ Clean code + smooth performance  
 
 ---
 
 # 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.instagram.com/musab_dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/musablinkdin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@musabshaikhh"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/musab_dev"><img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+  <a href="https://www.linkedin.com/in/musablinkdin"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+  <a href="https://www.youtube.com/@musabshaikhh"><img src="https://img.shields.io/badge/YouTube-0f2027?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack (Animated Icons)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,react,nextjs,nodejs,html,css,tailwind,python,mongodb,mysql,firebase,supabase,docker,aws,figma,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,react,nextjs,nodejs,html,css,tailwind,python,mongodb,mysql,firebase,supabase,docker,aws,figma,github&theme=dark" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🧠 Live Dev Quote (Auto Refresh)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 🎧 Now Playing (Retro Dev Vibe)
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31n7example&cover_image=true&theme=novatorem&bar_color=00F7FF&bar_color_cover=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake (Animated)
 <p align="center">
   <img src="https://github.com/musabshaikhh/musabshaikhh/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (Clean + Neon)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musabshaikhh&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musabshaikhh&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=musabshaikhh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=musabshaikhh&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabshaikhh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabshaikhh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🐱 Chill Zone (Because why not 😎)
+# 🎮 Fun Zone
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="140"/>
 </p>
 
 ---
 
-# 👀 Profile Views
+# 👀 Profile Views Counter
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=musabshaikhh&icon=5&color=6"/>
+  <img src="https://visitcount.itsvg.in/api?id=musabshaikhh&icon=6&color=12"/>
 </p>
 
 ---
 
-<!-- ✨ Retro Neon Footer -->
+<!-- 🌊 Neon Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=120&section=footer"/>
 </p>
