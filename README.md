@@ -18,10 +18,43 @@
 ---
 
 # 💫 About Me
-💻 Professional **Website & Mobile App Developer**  
-🚀 Building **fast, scalable & modern apps**  
-🎨 Obsessed with **UI/UX + Retro aesthetics**  
-⚡ Clean code + smooth performance  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Hi+I'm+Musab+Ahmed+👋;Flutter+Developer+🚀;Full+Stack+Engineer;UI%2FUX+Designer+🎨;I+build+modern+apps+with+clean+code" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/musabshaikhh.png" width="180" style="border-radius:50%; border:3px solid #00F7FF;" />
+</p>
+
+---
+
+✨ I am a passionate **Website & Mobile App Developer**  
+🚀 متخصص in building **fast, scalable & responsive applications**  
+🎨 I love crafting **beautiful UI/UX with modern + retro aesthetics**  
+⚡ Focused on **clean code, smooth performance & great user experience**  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120"/>
+</p>
+
+---
+
+### ⚡ What I Do
+
+💻 Build cross-platform apps using Flutter  
+🌐 Develop modern responsive websites  
+🔥 Create smooth animations & UI interactions  
+🧠 Solve real-world problems with code  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=18&center=true&vCenter=true&width=500&lines=Always+learning+new+tech+🚀;Building+cool+projects+💻;Turning+ideas+into+reality+⚡" />
+</p>
 
 ---
 
