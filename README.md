@@ -8,18 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=140&section=header"/>
 </p>
 
-<!-- 🖼️ Profile Pic -->
-<p align="center">
-  <img src="https://github.com/musabshaikhh.png" width="170" />
-</p>
-
-<!-- 🐱 Animated Cats -->
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="90"/>
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="90"/>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="90"/>
-</p>
-
 ---
 
 # 💫 About Me
@@ -52,7 +40,9 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="90"/>
 
 </td>
 </tr>
