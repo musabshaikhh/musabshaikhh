@@ -1,119 +1,79 @@
-<!-- 🔥 Neon Typing Header -->
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Musab+Ahmed+🚀;Flutter+Developer;Full+Stack+Engineer;Retro+UI+Lover;Building+Future+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Musab+👋;Flutter+Developer+🚀;Website+%2B+App+Builder;UI%2FUX+Designer;Building+Modern+Experiences" />
 </p>
 
-<!-- 🖼️ Auto GitHub Profile Pic -->
+<!-- 🖼️ Profile Image with Retro Background -->
 <p align="center">
-  <img src="https://github.com/musabshaikhh.png" width="200" style="border-radius:50%; border:3px solid #00F7FF;" />
+  <img src="YOUR_IMAGE_LINK_HERE" width="250" style="border-radius:20px;" />
 </p>
 
-<!-- 🐱 Animated Cats -->
+<!-- 🐱 Animated Cat -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="120"/>
 </p>
 
 ---
 
 # 💫 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Hi+I'm+Musab+Ahmed+👋;Flutter+Developer+🚀;Full+Stack+Engineer;UI%2FUX+Designer+🎨;I+build+modern+apps+with+clean+code" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/musabshaikhh.png" width="180" style="border-radius:50%; border:3px solid #00F7FF;" />
-</p>
-
----
-
-✨ I am a passionate **Website & Mobile App Developer**  
-🚀 متخصص in building **fast, scalable & responsive applications**  
-🎨 I love crafting **beautiful UI/UX with modern + retro aesthetics**  
-⚡ Focused on **clean code, smooth performance & great user experience**  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120"/>
-</p>
-
----
-
-### ⚡ What I Do
-
-💻 Build cross-platform apps using Flutter  
-🌐 Develop modern responsive websites  
-🔥 Create smooth animations & UI interactions  
-🧠 Solve real-world problems with code  
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=18&center=true&vCenter=true&width=500&lines=Always+learning+new+tech+🚀;Building+cool+projects+💻;Turning+ideas+into+reality+⚡" />
-</p>
+✨ Professional **Website & Mobile App Developer**  
+🚀 I build **fast, scalable & user-friendly applications**  
+🎨 Passionate about **UI/UX & modern design**  
+⚡ Clean code, smooth performance & aesthetic vibes  
 
 ---
 
 # 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.instagram.com/musab_dev"><img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-  <a href="https://www.linkedin.com/in/musablinkdin"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-  <a href="https://www.youtube.com/@musabshaikhh"><img src="https://img.shields.io/badge/YouTube-0f2027?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
+  <a href="https://www.instagram.com/musab_dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/musablinkdin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@musabshaikhh"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
 
-# ⚡ Tech Stack (Animated Icons)
+# 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,react,nextjs,nodejs,html,css,tailwind,python,mongodb,mysql,firebase,supabase,docker,aws,figma,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,react,nextjs,nodejs,html,css,tailwind,python,mongodb,mysql,firebase,supabase,docker,aws,figma,github" />
 </p>
 
 ---
 
-# 🧠 Live Dev Quote (Auto Refresh)
+# 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxOXM2djY0M2I2Z2R1dWo4cGZndG4wNDZxdDZlNzBod3g1dHNvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lbhL8dSGMh8I/giphy.gif" width="150"/>
 </p>
 
 ---
 
-# 🎧 Now Playing (Retro Dev Vibe)
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=18&center=true&vCenter=true&width=500&lines=🎧+Listening+to+Lo-fi+beats;💻+Coding+in+Flutter;🚀+Building+cool+apps" />
-</p>
-
----
-
-# 🐍 Contribution Snake (Animated)
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxOXM2djY0M2I2Z2R1dWo4cGZndG4wNDZxdDZlNzBod3g1dHNvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lbhL8dSGMh8I/giphy.gif" width="100"/>
-</p>
----
-
-# 📊 GitHub Stats (Clean + Neon)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musabshaikhh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=musabshaikhh&theme=tokyonight&hide_border=true&show_icons=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=musabshaikhh&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=musabshaikhh&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabshaikhh&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabshaikhh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🎮 Fun Zone
+# 🐱 Chill Zone (Because why not 😎)
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="140"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150"/>
 </p>
 
 ---
 
-<!-- 🌊 Neon Footer -->
+# 👀 Profile Views
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=120&section=footer"/>
+  <img src="https://visitcount.itsvg.in/api?id=musabshaikhh&icon=5&color=6"/>
+</p>
+
+---
+
+<!-- ✨ Retro Neon Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=120&section=footer"/>
 </p>
