@@ -62,9 +62,8 @@
 
 # 🐍 Contribution Snake (Animated)
 <p align="center">
-  <img src="https://github.com/musabshaikhh/musabshaikhh/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/musabshaikhh/musabshaikhh/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 # 📊 GitHub Stats (Clean + Neon)
