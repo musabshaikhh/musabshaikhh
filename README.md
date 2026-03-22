@@ -75,7 +75,7 @@
 
 # 🐍 Contribution Snake
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/musabshaikhh/musabshaikhh/output/github-contribution-grid-snake.svg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxOXM2djY0M2I2Z2R1dWo4cGZndG4wNDZxdDZlNzBod3g1dHNvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lbhL8dSGMh8I/giphy.gif)" width="150" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxOXM2djY0M2I2Z2R1dWo4cGZndG4wNDZxdDZlNzBod3g1dHNvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lbhL8dSGMh8I/giphy.gif" width="150" />
 </p>
 
 ---
