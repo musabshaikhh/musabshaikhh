@@ -57,7 +57,7 @@
 
 # 🐍 Contribution Snake (Animated)
 <p align="center">
-  <img src="[https://media.giphy.com/media/ifJIX9t2j0ZTN9S/giphy.g](https://giphy.com/gifs/news-kids-struggles-zPdwt79PXjMEo)" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd2MXU1ZmFpbmRtYzMwY2VidzBxbW94djMxbzMyd204bXQ2ZjA1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPdwt79PXjMEo/giphy.gif" width="100"/>
 </p>
 ---
 
