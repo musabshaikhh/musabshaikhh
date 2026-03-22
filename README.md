@@ -57,7 +57,7 @@
 
 # 🐍 Contribution Snake (Animated)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/musabshaikhh/musabshaikhh/output/github-contribution-grid-snake.svg" />
+  <img src="[https://media.giphy.com/media/ifJIX9t2j0ZTN9S/giphy.g](https://giphy.com/gifs/news-kids-struggles-zPdwt79PXjMEo)" width="100"/>
 </p>
 ---
 
