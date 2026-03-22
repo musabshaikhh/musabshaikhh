@@ -57,7 +57,7 @@
 
 # 🐍 Contribution Snake (Animated)
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd2MXU1ZmFpbmRtYzMwY2VidzBxbW94djMxbzMyd204bXQ2ZjA1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPdwt79PXjMEo/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxOXM2djY0M2I2Z2R1dWo4cGZndG4wNDZxdDZlNzBod3g1dHNvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lbhL8dSGMh8I/giphy.gif" width="100"/>
 </p>
 ---
 
