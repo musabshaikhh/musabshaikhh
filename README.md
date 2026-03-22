@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Musab+Ahmed+🚀;Flutter+Developer;Full+Stack+Engineer;Retro+UI+Lover;Building+Future+Apps" />
 </p>
 
-<!-- 🌌 Retro Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&text=Retro%20Dev%20Vibes&fontColor=00F7FF&fontSize=40&animation=fadeIn"/>
-</p>
-
 <!-- 🖼️ Auto GitHub Profile Pic -->
 <p align="center">
   <img src="https://github.com/musabshaikhh.png" width="200" style="border-radius:50%; border:3px solid #00F7FF;" />
@@ -55,7 +50,7 @@
 
 # 🎧 Now Playing (Retro Dev Vibe)
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31n7example&cover_image=true&theme=novatorem&bar_color=00F7FF&bar_color_cover=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=18&center=true&vCenter=true&width=500&lines=🎧+Listening+to+Lo-fi+beats;💻+Coding+in+Flutter;🚀+Building+cool+apps" />
 </p>
 
 ---
@@ -81,13 +76,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="140"/>
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="140"/>
-</p>
-
----
-
-# 👀 Profile Views Counter
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=musabshaikhh&icon=6&color=12"/>
 </p>
 
 ---
