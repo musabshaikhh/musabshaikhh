@@ -5,7 +5,7 @@
 
 <!-- 🌌 Retro Header -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnY4cXkzN294Nzd0NWVxNWFheWloOW5ocDlqYWhlZHl1czRncXVvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N43iolnh53IoyCjYp4/giphy.gif" width="auto"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRqMWJ1MGlsMng3bjBoOTB5bW4xNHF0ZnhpaGhnbzBnNzVtem00cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="auto"/>
 </p>
 
 ---
