@@ -52,7 +52,7 @@
 
 # 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.instagram.com/musab_dev"><img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+  <a href="https://www.instagram.com/musab_codes"><img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
   <a href="https://www.linkedin.com/in/musablinkdin"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
   <a href="https://www.youtube.com/@musabshaikhh"><img src="https://img.shields.io/badge/YouTube-0f2027?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
 </p>
