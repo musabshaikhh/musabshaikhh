@@ -1,5 +1,5 @@
 <!-- 🔥 Typing Intro -->
-<p align="center"; height="200">
+<p align="center"; height="100"; width="200">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Musab+Ahmed+🚀;Flutter+Developer;Full+Stack+Engineer;Building+Amazing+Apps" alt="Typing SVG" />
 </p>
 
