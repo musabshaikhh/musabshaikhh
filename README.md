@@ -1,11 +1,11 @@
 <!-- 🔥 Typing Intro -->
 <p align="center"; height="100"; width="200">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Musab+Ahmed+🚀;Flutter+Developer;Full+Stack+Engineer;Building+Amazing+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Musab+Ahmed+🚀;Flutter+Developer;Full+Stack+Engineer;Building+Amazing+Apps" alt="Typing intro"/>
 </p>
 
 <!-- 🌌 Retro Header -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRqMWJ1MGlsMng3bjBoOTB5bW4xNHF0ZnhpaGhnbzBnNzVtem00cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="auto" alt="Retro animation" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRqMWJ1MGlsMng3bjBoOTB5bW4xNHF0ZnhwaGhnbzBnNzVtem00cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="300" height="150" alt="Retro header"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 <td width="60%">
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&lines=Hi+I'm+Musab+👋;Flutter+Developer+🚀;Full+Stack+Engineer;UI%2FUX+Designer+🎨;Retro+UI+Lover" alt="About me typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&lines=Hi+I'm+Musab+👋;Flutter+Developer+🚀;Full+Stack+Engineer;UI%2FUX+Designer+🎨;Retro+UI+Lover" alt="About me intro"/>
 </p>
 
 💻 Professional **Website & Mobile App Developer**  
@@ -75,7 +75,7 @@
 
 # 🐍 Contribution Snake
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxOXM2djY0M2I2Z2R1dWo4cGZndG4wNDZxdDZlNzBod3g1dHNvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lbhL8dSGMh8I/giphy.gif" width="150" alt="Snake animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxOXM2djY0M2I2Z2R1dWo4cGZndG4wNDZxdDZlNzBod3g1dHNvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lbhL8dSGMh8I/giphy.gif" width="150" alt="Snake animation"/>
 </p>
 
 ---
