@@ -64,7 +64,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,react,nextjs,nodejs,html,css,tailwind,python,mongodb,mysql,firebase,supabase,docker,aws,figma,github&theme=dark" alt="Tech stack icons"/>
 </p>
 
-\\\\\\\\\\
 
 ---
 
