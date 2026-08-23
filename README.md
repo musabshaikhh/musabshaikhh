@@ -64,19 +64,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,react,nextjs,nodejs,html,css,tailwind,python,mongodb,mysql,firebase,supabase,docker,aws,figma,github&theme=dark" alt="Tech stack icons"/>
 </p>
 
----
-
-# 🎧 Dev Vibes
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=18&center=true&vCenter=true&width=500&lines=🎧+Coding+Lo-fi+Beats;💻+Building+Apps;🚀+Shipping+Projects" alt="Dev vibes" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxOXM2djY0M2I2Z2R1dWo4cGZndG4wNDZxdDZlNzBod3g1dHNvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lbhL8dSGMh8I/giphy.gif" width="150" alt="Snake animation"/>
-</p>
+\\\\\\\\\\
 
 ---
 
@@ -84,11 +72,9 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musabshaikhh&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)](https://github.com/musabshaikhh)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=musabshaikhh&theme=tokyonight&hide_border=true)](https://github.com/musabshaikhh)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=musabshaikhh&layout=compact&theme=tokyonight&hide_border=true&card_width=400)](https://github.com/musabshaikhh)
 
 </div>
 
